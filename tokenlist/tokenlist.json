@@ -19,7 +19,7 @@
             "decimals": 18,
             "name": "Doge Eat Doge",
             "symbol": "OMNOM",
-            "logoURI": "https://omnomtoken.com/doge.gif"
+            "logoURI": "https://raw.githubusercontent.com/omnomcommunity/tokenlist/refs/heads/main/token/omnom.gif"
         },
         {
             "chainId": 2000,
